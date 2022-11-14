@@ -1,3 +1,6 @@
+apt install python aria2 git curl 
+pip install youtube-dl
+pip install --upgrade pip
 mkdir ../.shortcuts
 mv aria.sh ../.shortcuts
 mv ytbv.sh ../.shortcuts
