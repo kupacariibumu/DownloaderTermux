@@ -1,4 +1,4 @@
-apt install python aria2 git curl 
+apt install python aria2 git curl ffmpeg
 pip install youtube-dl
 pip install --upgrade pip
 mkdir ../.shortcuts
